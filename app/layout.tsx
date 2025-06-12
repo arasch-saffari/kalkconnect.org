@@ -1,8 +1,9 @@
 import type React from "react"
-import type { Metadata } from "next"
+import type { Metadata, Viewport } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://kalkconnect.org"),
   title: "KalkConnect e.V. - Engagement fördern. Teilhabe stärken.",
   description:
     "Gemeinnütziger Verein in Köln-Kalk für politische Bildung, Integration und Kultur. Plattform für Begegnung, Beratung und Engagementförderung. Spenden willkommen.",
@@ -70,15 +71,6 @@ export const metadata: Metadata = {
       "fa-IR": "https://kalkconnect.org/fa",
     },
   },
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
-    maximumScale: 5,
-  },
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#059669" },
-    { media: "(prefers-color-scheme: dark)", color: "#047857" },
-  ],
   manifest: "/manifest.json",
   icons: {
     icon: [
@@ -88,7 +80,17 @@ export const metadata: Metadata = {
     apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
   },
   category: "Non-profit Organization",
-    generator: 'v0.dev'
+  generator: "v0.dev",
+}
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#059669" },
+    { media: "(prefers-color-scheme: dark)", color: "#047857" },
+  ],
 }
 
 // Structured Data for Organization
@@ -120,7 +122,8 @@ const structuredData = {
     name: "Köln, Deutschland",
   },
   nonprofitStatus: "NonprofitType",
-  mission: "Förderung des bürgerschaftlichen Engagements in den Bereichen politische Bildung, Integration und Kultur",
+  mission:
+    "Förderung des bürgerschaftlichen Engagements in den Bereichen politische Bildung, Integration und Kultur",
   knowsAbout: [
     "Politische Bildung",
     "Integration",
