@@ -1,0 +1,70 @@
+{
+  "langLabel": "Bosanski",
+  "nav": {
+    "association": "Udruženje",
+    "donate": "Doniraj",
+    "services": "Usluge",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "KalkConnect e.V.",
+    "subtitle": "Promovišemo angažman. Osnažujemo učešće.",
+    "cta": "Saznaj više"
+  },
+  "association": {
+    "heading": "O Udruženju",
+    "body": "<h3>Naša Misija</h3><p>KalkConnect e.V. je neprofitno udruženje sa sjedištem u Kölnu. Naš cilj je promocija građanskog angažmana u političkom obrazovanju, integraciji i kulturi.</p><h3>Naša Vizija</h3><p>Fokusiramo se na osnaživanje socijalno ugroženih osoba. Udruženje služi kao platforma za susrete, razmjenu informacija i savjetovanje.</p><h3>Naš Rad</h3><p>Kroz obrazovne aktivnosti i javne projekte skretamo pažnju na društvenu nejednakost i podsticajemo aktivno učešće u društvenim procesima.</p><h3>Naše Vrijednosti</h3><p>Udruženje je politički i konfesionalno nezavisno. KalkConnect e.V. radi nesebično i koristi svoja sredstva isključivo u dobrotvorne svrhe.</p>"
+  },
+  "donate": {
+    "heading": "Doniraj",
+    "body": "<h3>Zašto Je Vaša Podrška Važna</h3><p>KalkConnect e.V. želi ostati nezavisno od vladinih, političkih, vjerskih i institucionalnih uticaja. Aktivnosti se finansiraju isključivo iz donacija i obrazovnih usluga.</p><h3>Kako Možete Pomoći</h3><p>Želite podržati naš rad i promovirati učešće i jednakost u četvrti? Zahvalni smo na svakoj donaciji.</p><h3>Potvrde o Donaciji</h3><p>Kao priznata neprofitna organizacija, možemo izdati potvrdu o donaciji za poresku prijavu. Molimo pošaljite kompletnu adresu e-mailom.</p>",
+    "iban": "DE38 4306 0967 1351 6057 00",
+    "cta": "Kopiraj IBAN",
+    "bankTransfer": "Bankovni transfer"
+  },
+  "services": {
+    "heading": "Usluge",
+    "cards": [
+      {
+        "title": "Savjetovanje",
+        "text": "Savjetujemo o političkom angažmanu, građanskom učešću i društveno-političkim temama u četvrti."
+      },
+      {
+        "title": "Rad u Zajednici",
+        "text": "Otvorene društvene aktivnosti poput zajedničkih obroka, filmskih projekcija ili izleta okupljaju ljude."
+      },
+      {
+        "title": "Umrežavanje",
+        "text": "Povezujemo ljude i grupe u okrugu Kalk i podržavamo inicijative."
+      },
+      {
+        "title": "Obrazovne Ponude",
+        "text": "Predavanja, obuke i obrazovanje odraslih o međunarodnim, feminističkim i aktuelnim temama."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Kontakt i Pravno",
+    "address": "KalkConnect e.V. – Kapellenstr. 9A – 51103 Köln",
+    "phone": "+49 163 2072108",
+    "email": "info@kalkconnect.org",
+    "imprint": "Impressum",
+    "privacy": "Privatnost"
+  },
+  "footer": {
+    "nonprofit": "Neprofitna organizacija",
+    "description": "KalkConnect e.V. promoviše građanski angažman u Köln-Kalk kroz političko obrazovanje, integraciju i kulturu.",
+    "quickLinks": "Brzi linkovi",
+    "legal": "Pravno",
+    "connect": "Kontakt"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "content": "<h3>Informacije prema § 5 TMG</h3><p>KalkConnect e.V.<br>Kapellenstr. 9A<br>51103 Köln</p>"
+  },
+  "privacy": {
+    "title": "Politika Privatnosti",
+    "content": "<h3>Privatnost ukratko</h3><p>Zaštita vaših ličnih podataka je važna za nas.</p>"
+  },
+  "backToTop": "Nazad na vrh"
+}

@@ -1,0 +1,70 @@
+{
+  "langLabel": "Română",
+  "nav": {
+    "association": "Asociația",
+    "donate": "Donează",
+    "services": "Servicii",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "KalkConnect e.V.",
+    "subtitle": "Întărim participarea, sprijinim egalitatea.",
+    "cta": "Află mai mult"
+  },
+  "association": {
+    "heading": "Despre Asociație",
+    "body": "<h3>Misiunea Noastră</h3><p>KalkConnect e.V. este o asociație non-profit cu sediul în Köln. Scopul ei este de a promova implicarea civică în domeniile educației politice, integrării și culturii.</p><h3>Viziunea Noastră</h3><p>Asociația se concentrează pe sprijinirea persoanelor defavorizate social și se vede ca o platformă pentru întâlniri, schimb de informații și consiliere.</p><h3>Activitatea Noastră</h3><p>Prin activități educaționale și proiecte publice, atragem atenția asupra inegalității sociale și încurajăm implicarea activă în procesele societății.</p><h3>Valorile Noastre</h3><p>Asociația este independentă politic și confesional. KalkConnect e.V. funcționează altruist și își folosește fondurile exclusiv pentru scopuri caritabile.</p>"
+  },
+  "donate": {
+    "heading": "Donează",
+    "body": "<h3>De Ce Este Importantă Susținerea Ta</h3><p>KalkConnect e.V. dorește să rămână independentă de influențe guvernamentale, politice, religioase sau instituționale. Activitatea este finanțată exclusiv prin donații și servicii educaționale.</p><h3>Cum Poți Ajuta</h3><p>Vrei să susții munca noastră și să promovezi participarea și egalitatea în cartier? Ne bucurăm de orice donație.</p><h3>Chitanțe de Donație</h3><p>Ca organizație non-profit recunoscută, putem elibera chitanțe de donație pentru declarația de venituri. Te rugăm să ne trimiți adresa completă prin email.</p>",
+    "iban": "DE38 4306 0967 1351 6057 00",
+    "cta": "Copiază IBAN",
+    "bankTransfer": "Transfer Bancar"
+  },
+  "services": {
+    "heading": "Servicii",
+    "cards": [
+      {
+        "title": "Consultanță",
+        "text": "Oferim consultanță privind implicarea politică, participarea cetățenilor și alte teme sociopolitice din cartier."
+      },
+      {
+        "title": "Muncă comunitară",
+        "text": "Activități sociale deschise, precum cine comune, proiecții de filme sau excursii, aduc oamenii împreună."
+      },
+      {
+        "title": "Rețea",
+        "text": "Sprijinim oamenii și grupurile din districtul Kalk să se conecteze și să se implice împreună."
+      },
+      {
+        "title": "Educație",
+        "text": "Oferim prelegeri, formări și educație pentru adulți pe teme internaționale, feministe și actuale."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact & Legal",
+    "address": "KalkConnect e.V. – Kapellenstr. 9A – 51103 Köln",
+    "phone": "+49 163 2072108",
+    "email": "info@kalkconnect.org",
+    "imprint": "Imprint",
+    "privacy": "Confidențialitate"
+  },
+  "footer": {
+    "nonprofit": "Organizație non-profit",
+    "description": "KalkConnect e.V. promovează implicarea civică în Köln-Kalk prin educație politică, integrare și cultură.",
+    "quickLinks": "Link-uri Rapide",
+    "legal": "Legal",
+    "connect": "Contact"
+  },
+  "imprint": {
+    "title": "Imprint",
+    "content": "<h3>Informații conform § 5 TMG</h3><p>KalkConnect e.V.<br>Kapellenstr. 9A<br>51103 Köln</p>"
+  },
+  "privacy": {
+    "title": "Confidențialitate",
+    "content": "<h3>Politica de confidențialitate</h3><p>Protecția datelor dumneavoastră personale este importantă pentru noi.</p>"
+  },
+  "backToTop": "Sus"
+}

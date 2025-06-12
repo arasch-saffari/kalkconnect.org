@@ -1,0 +1,70 @@
+{
+  "langLabel": "Italiano",
+  "nav": {
+    "association": "Associazione",
+    "donate": "Dona",
+    "services": "Servizi",
+    "contact": "Contatto"
+  },
+  "hero": {
+    "title": "KalkConnect e.V.",
+    "subtitle": "Promuovere l'impegno. Rafforzare la partecipazione.",
+    "cta": "Scopri di più"
+  },
+  "association": {
+    "heading": "L'Associazione",
+    "body": "<h3>La Nostra Missione</h3><p>KalkConnect e.V. è un'associazione no-profit con sede a Colonia. Il nostro obiettivo è promuovere l'impegno civico nell'educazione politica, integrazione e cultura.</p><h3>La Nostra Visione</h3><p>Ci concentriamo sull'empowerment delle persone socialmente svantaggiate. L'associazione serve come piattaforma per incontri, scambio di informazioni e consulenza.</p><h3>Il Nostro Lavoro</h3><p>Attraverso attività educative e progetti pubblici, attiriamo l'attenzione sulle disuguaglianze sociali e incoraggiamo la partecipazione attiva ai processi sociali.</p><h3>I Nostri Valori</h3><p>L'associazione è politicamente e confessionalmente indipendente. KalkConnect e.V. lavora in modo disinteressato e utilizza le sue risorse esclusivamente per scopi caritatevoli.</p>"
+  },
+  "donate": {
+    "heading": "Dona",
+    "body": "<h3>Perché Il Tuo Sostegno È Importante</h3><p>KalkConnect e.V. desidera rimanere indipendente da influenze governative, politiche, religiose e istituzionali. Le attività sono finanziate esclusivamente da donazioni e servizi educativi.</p><h3>Come Puoi Aiutare</h3><p>Vuoi sostenere il nostro lavoro e promuovere la partecipazione e l'uguaglianza nel quartiere? Siamo grati per qualsiasi donazione.</p><h3>Ricevute di Donazione</h3><p>Come organizzazione no-profit riconosciuta, possiamo emettere una ricevuta di donazione per la tua dichiarazione dei redditi. Ti preghiamo di inviare il tuo indirizzo completo via email.</p>",
+    "iban": "DE38 4306 0967 1351 6057 00",
+    "cta": "Copia IBAN",
+    "bankTransfer": "Bonifico Bancario"
+  },
+  "services": {
+    "heading": "Servizi",
+    "cards": [
+      {
+        "title": "Consulenza",
+        "text": "Consigliamo sull'impegno politico, partecipazione cittadina e temi socio-politici nel quartiere."
+      },
+      {
+        "title": "Lavoro Comunitario",
+        "text": "Attività sociali aperte come pasti condivisi, proiezioni di film o escursioni riuniscono le persone."
+      },
+      {
+        "title": "Networking",
+        "text": "Colleghiamo persone e gruppi nel distretto di Kalk e sosteniamo le iniziative."
+      },
+      {
+        "title": "Offerte Educative",
+        "text": "Conferenze, formazioni e educazione degli adulti su temi internazionali, femministi e attuali."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contatto e Legale",
+    "address": "KalkConnect e.V. – Kapellenstr. 9A – 51103 Köln",
+    "phone": "+49 163 2072108",
+    "email": "info@kalkconnect.org",
+    "imprint": "Colophon",
+    "privacy": "Privacy"
+  },
+  "footer": {
+    "nonprofit": "Organizzazione no-profit",
+    "description": "KalkConnect e.V. promuove l'impegno civico a Colonia-Kalk attraverso educazione politica, integrazione e cultura.",
+    "quickLinks": "Link Rapidi",
+    "legal": "Legale",
+    "connect": "Contatto"
+  },
+  "imprint": {
+    "title": "Colophon",
+    "content": "<h3>Informazioni secondo § 5 TMG</h3><p>KalkConnect e.V.<br>Kapellenstr. 9A<br>51103 Köln</p>"
+  },
+  "privacy": {
+    "title": "Politica sulla Privacy",
+    "content": "<h3>Privacy a colpo d'occhio</h3><p>La protezione dei tuoi dati personali è importante per noi.</p>"
+  },
+  "backToTop": "Torna su"
+}

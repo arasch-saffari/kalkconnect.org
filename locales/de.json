@@ -1,0 +1,70 @@
+{
+  "langLabel": "Deutsch",
+  "nav": {
+    "association": "Der Verein",
+    "donate": "Spenden",
+    "services": "Angebote",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "KalkConnect e.V.",
+    "subtitle": "Engagement fördern. Teilhabe stärken.",
+    "cta": "Mehr erfahren"
+  },
+  "association": {
+    "heading": "Der Verein",
+    "body": "<h3>Unser Auftrag</h3><p>KalkConnect e.V. ist ein gemeinnütziger Verein mit Sitz in Köln. Unser Ziel ist die Förderung des bürgerschaftlichen Engagements in den Bereichen politische Bildung, Integration und Kultur.</p><h3>Unsere Vision</h3><p>Im Mittelpunkt steht die Stärkung sozial benachteiligter Menschen. Der Verein versteht sich als Plattform für Begegnung, Informationsaustausch, Beratung, gegenseitige Unterstützung und Engagementförderung.</p><h3>Unsere Arbeit</h3><p>Durch Bildungsarbeit und öffentliche Projekte machen wir auf soziale Ungleichbehandlung aufmerksam und ermutigen zur aktiven Mitgestaltung gesellschaftlicher Prozesse. Zentrale Angebote des Vereins sind Kulturveranstaltungen, Weiterbildungsseminare, politische Projektgruppen sowie offene Räume für Austausch und Begegnung.</p><h3>Unsere Werte</h3><p>Der Verein ist parteipolitisch und konfessionell unabhängig. KalkConnect e.V. arbeitet selbstlos und verwendet seine Mittel ausschließlich zur Verwirklichung gemeinnütziger Ziele.</p>"
+  },
+  "donate": {
+    "heading": "Spenden",
+    "body": "<h3>Warum Ihre Unterstützung wichtig ist</h3><p>KalkConnect e.V. möchte unabhängig von staatlichen, parteilichen, religiösen und institutionellen Einflussnahmen bleiben. Die Arbeit des Vereins finanziert sich daher ausschließlich durch Spenden von Unterstützer*innen sowie durch Bildungs- und Beratungsangebote.</p><h3>Wie Sie helfen können</h3><p>Sie möchten unsere Arbeit unterstützen und die Teilhabe sowie Gleichberechtigung im Stadtteil fördern? Dann freuen wir uns sehr über eine Spende. Monatliche Daueraufträge helfen uns bei einer verlässlichen Finanzplanung.</p><h3>Spendenquittungen</h3><p>Als anerkannter gemeinnütziger Verein stellen wir Ihnen gerne eine Spendenquittung für Ihre Steuererklärung aus. Bitte senden Sie uns dafür Ihre vollständige Adresse per E-Mail zu.</p>",
+    "iban": "DE38 4306 0967 1351 6057 00",
+    "cta": "IBAN kopieren",
+    "bankTransfer": "Banküberweisung"
+  },
+  "services": {
+    "heading": "Angebote",
+    "cards": [
+      {
+        "title": "Beratung",
+        "text": "Wir beraten zu politischem Engagement, Bürger*innenbeteiligung und sozialpolitischen Themen im Stadtteil."
+      },
+      {
+        "title": "Communityarbeit",
+        "text": "Offene soziale Angebote wie gemeinsames Essen, Filmvorführungen oder Ausflüge fördern das Miteinander."
+      },
+      {
+        "title": "Netzwerkarbeit",
+        "text": "Wir vernetzen Menschen und Gruppen im Stadtbezirk Kalk und unterstützen Initiativen."
+      },
+      {
+        "title": "Bildungsangebote",
+        "text": "Vorträge, Fortbildungen und Erwachsenenbildung zu internationalen, feministischen und aktuellen Themen."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Kontakt & Rechtliches",
+    "address": "KalkConnect e.V. – Kapellenstr. 9A – 51103 Köln",
+    "phone": "+49 163 2072108",
+    "email": "info@kalkconnect.org",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "footer": {
+    "nonprofit": "Gemeinnütziger Verein",
+    "description": "KalkConnect e.V. fördert bürgerschaftliches Engagement in Köln-Kalk durch politische Bildung, Integration und Kultur.",
+    "quickLinks": "Schnellzugriff",
+    "legal": "Rechtliches",
+    "connect": "Kontakt"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "content": "<h3>Angaben gemäß § 5 TMG</h3><p>KalkConnect e.V.<br>Kapellenstr. 9A<br>51103 Köln</p><h3>Vertreten durch:</h3><p>Vorstand des KalkConnect e.V.</p><h3>Kontakt</h3><p>Telefon: +49 163 2072108<br>E-Mail: info@kalkconnect.org</p><h3>Registereintrag</h3><p>Eintragung im Vereinsregister.<br>Registergericht: Amtsgericht Köln<br>Registernummer: VR [Nummer]</p><h3>Umsatzsteuer-ID</h3><p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:<br>[USt-IdNr.]</p><h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h3><p>Vorstand des KalkConnect e.V.<br>Kapellenstr. 9A<br>51103 Köln</p><h3>Haftungsausschluss</h3><h4>Haftung für Inhalte</h4><p>Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht unter der Verpflichtung, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</p>"
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "content": "<h3>1. Datenschutz auf einen Blick</h3><h4>Allgemeine Hinweise</h4><p>Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.</p><h4>Datenerfassung auf dieser Website</h4><p><strong>Wer ist verantwortlich für die Datenerfassung auf dieser Website?</strong></p><p>Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.</p><h3>2. Hosting</h3><p>Wir hosten die Inhalte unserer Website bei folgendem Anbieter:</p><h4>Externes Hosting</h4><p>Diese Website wird extern gehostet. Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters gespeichert.</p><h3>3. Allgemeine Hinweise und Pflichtinformationen</h3><h4>Datenschutz</h4><p>Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzbestimmungen sowie dieser Datenschutzerklärung.</p><h4>Hinweis zur verantwortlichen Stelle</h4><p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p><p>KalkConnect e.V.<br>Kapellenstr. 9A<br>51103 Köln<br>Telefon: +49 163 2072108<br>E-Mail: info@kalkconnect.org</p>"
+  },
+  "backToTop": "Nach oben"
+}

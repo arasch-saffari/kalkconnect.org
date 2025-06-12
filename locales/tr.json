@@ -1,0 +1,70 @@
+{
+  "langLabel": "Türkçe",
+  "nav": {
+    "association": "Dernek",
+    "donate": "Bağış",
+    "services": "Hizmetler",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "KalkConnect e.V.",
+    "subtitle": "Katılımı güçlendirir, dayanışmayı destekler.",
+    "cta": "Daha fazla öğren"
+  },
+  "association": {
+    "heading": "Dernek Hakkında",
+    "body": "<h3>Misyonumuz</h3><p>KalkConnect e.V., Köln merkezli kar amacı gütmeyen bir dernektir. Amacı; siyasi eğitim, entegrasyon ve kültür alanlarında sivil katılımı teşvik etmektir.</p><h3>Vizyonumuz</h3><p>Odağında sosyal açıdan dezavantajlı kişilerin güçlendirilmesi vardır. Dernek; buluşma, bilgi alışverişi, danışmanlık, karşılıklı destek ve gönüllülük teşviki için bir platformdur.</p><h3>Çalışmalarımız</h3><p>Eğitim çalışmaları ve kamuya açık projeler aracılığıyla sosyal eşitsizliğe dikkat çeker ve toplumsal süreçlere aktif katılımı teşvik eder.</p><h3>Değerlerimiz</h3><p>Dernek; siyasi partilerden ve dini kurumlardan bağımsızdır ve kaynaklarını tamamen kamu yararına kullanır.</p>"
+  },
+  "donate": {
+    "heading": "Bağış Yap",
+    "body": "<h3>Desteğiniz Neden Önemli</h3><p>KalkConnect e.V., devlet, parti, dini veya kurumsal etkilerden bağımsız kalmak ister. Bu nedenle çalışmalarını yalnızca destekçilerin bağışları ve eğitim/danışmanlık hizmetleri finanse eder.</p><h3>Nasıl Yardım Edebilirsiniz</h3><p>Çalışmalarımıza destek olmak ve mahallede katılım ile eşitliği teşvik etmek ister misiniz? Bağışlarınızı memnuniyetle kabul ederiz.</p><h3>Bağış Makbuzu</h3><p>Tanınmış bir kamu yararına çalışan kuruluş olarak, vergi beyannameniz için bağış makbuzu düzenleyebiliriz. Lütfen tam adresinizi e-posta ile gönderin.</p>",
+    "iban": "DE38 4306 0967 1351 6057 00",
+    "cta": "IBAN kopyala",
+    "bankTransfer": "Banka Havalesi"
+  },
+  "services": {
+    "heading": "Hizmetler",
+    "cards": [
+      {
+        "title": "Danışmanlık",
+        "text": "Siyasi katılım, yurttaşlık süreçleri ve sosyal konularda danışmanlık sunuyoruz."
+      },
+      {
+        "title": "Topluluk Çalışması",
+        "text": "Ortak yemekler, film gösterimleri veya geziler gibi sosyal etkinliklerle mahallede birlikteliği güçlendiriyoruz."
+      },
+      {
+        "title": "Ağ Oluşturma",
+        "text": "Kalk semtindeki insanları ve grupları buluşturuyor, girişimleri destekliyoruz."
+      },
+      {
+        "title": "Eğitim Faaliyetleri",
+        "text": "Uluslararası, feminist ve güncel konularda seminerler, eğitimler ve yetişkin eğitimi sunuyoruz."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "İletişim & Hukuk",
+    "address": "KalkConnect e.V. – Kapellenstr. 9A – 51103 Köln",
+    "phone": "+49 163 2072108",
+    "email": "info@kalkconnect.org",
+    "imprint": "Künye",
+    "privacy": "Gizlilik"
+  },
+  "footer": {
+    "nonprofit": "Kamu yararına çalışan dernek",
+    "description": "KalkConnect e.V. siyasi eğitim, entegrasyon ve kültür yoluyla Köln-Kalk'ta sivil katılımı teşvik eder.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "legal": "Hukuki",
+    "connect": "İletişim"
+  },
+  "imprint": {
+    "title": "Künye",
+    "content": "<h3>TMG § 5'e göre bilgiler</h3><p>KalkConnect e.V.<br>Kapellenstr. 9A<br>51103 Köln</p>"
+  },
+  "privacy": {
+    "title": "Gizlilik",
+    "content": "<h3>Gizlilik Politikası</h3><p>Kişisel verilerinizin korunması bizim için önemlidir.</p>"
+  },
+  "backToTop": "Yukarı çık"
+}

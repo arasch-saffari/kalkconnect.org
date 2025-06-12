@@ -1,0 +1,70 @@
+{
+  "langLabel": "Polski",
+  "nav": {
+    "association": "Stowarzyszenie",
+    "donate": "Wspieraj",
+    "services": "Usługi",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "KalkConnect e.V.",
+    "subtitle": "Wspieramy zaangażowanie. Wzmacniamy uczestnictwo.",
+    "cta": "Dowiedz się więcej"
+  },
+  "association": {
+    "heading": "O Stowarzyszeniu",
+    "body": "<h3>Nasza Misja</h3><p>KalkConnect e.V. to organizacja non-profit z siedzibą w Kolonii. Naszym celem jest promowanie zaangażowania obywatelskiego w edukacji politycznej, integracji i kulturze.</p><h3>Nasza Wizja</h3><p>Skupiamy się na wzmacnianiu pozycji osób znajdujących się w niekorzystnej sytuacji społecznej. Stowarzyszenie służy jako platforma spotkań, wymiany informacji i doradztwa.</p><h3>Nasza Praca</h3><p>Poprzez działalność edukacyjną i projekty publiczne zwracamy uwagę na nierówności społeczne i zachęcamy do aktywnego kształtowania procesów społecznych.</p><h3>Nasze Wartości</h3><p>Stowarzyszenie jest niezależne politycznie i wyznaniowo. KalkConnect e.V. działa bezinteresownie i wykorzystuje swoje środki wyłącznie na cele charytatywne.</p>"
+  },
+  "donate": {
+    "heading": "Wspieraj",
+    "body": "<h3>Dlaczego Twoje Wsparcie Jest Ważne</h3><p>KalkConnect e.V. chce pozostać niezależne od wpływów rządowych, politycznych, religijnych i instytucjonalnych. Działalność jest finansowana wyłącznie z darowizn i usług edukacyjnych.</p><h3>Jak Możesz Pomóc</h3><p>Chcesz wspierać naszą pracę i promować uczestnictwo oraz równość w dzielnicy? Będziemy wdzięczni za każdą darowiznę.</p><h3>Potwierdzenia Darowizn</h3><p>Jako uznana organizacja non-profit, chętnie wystawimy potwierdzenie darowizny do zeznania podatkowego. Prosimy o przesłanie pełnego adresu e-mailem.</p>",
+    "iban": "DE38 4306 0967 1351 6057 00",
+    "cta": "Kopiuj IBAN",
+    "bankTransfer": "Przelew Bankowy"
+  },
+  "services": {
+    "heading": "Usługi",
+    "cards": [
+      {
+        "title": "Doradztwo",
+        "text": "Doradzamy w zakresie zaangażowania politycznego, uczestnictwa obywatelskiego i tematów społeczno-politycznych w dzielnicy."
+      },
+      {
+        "title": "Praca Społeczna",
+        "text": "Otwarte działania społeczne, takie jak wspólne posiłki, pokazy filmów czy wycieczki, łączą ludzi."
+      },
+      {
+        "title": "Networking",
+        "text": "Łączymy ludzi i grupy w dzielnicy Kalk i wspieramy inicjatywy."
+      },
+      {
+        "title": "Oferta Edukacyjna",
+        "text": "Wykłady, szkolenia i edukacja dorosłych na tematy międzynarodowe, feministyczne i aktualne."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Kontakt i Prawne",
+    "address": "KalkConnect e.V. – Kapellenstr. 9A – 51103 Köln",
+    "phone": "+49 163 2072108",
+    "email": "info@kalkconnect.org",
+    "imprint": "Impressum",
+    "privacy": "Prywatność"
+  },
+  "footer": {
+    "nonprofit": "Organizacja non-profit",
+    "description": "KalkConnect e.V. promuje zaangażowanie obywatelskie w Kolonii-Kalk poprzez edukację polityczną, integrację i kulturę.",
+    "quickLinks": "Szybkie Linki",
+    "legal": "Prawne",
+    "connect": "Kontakt"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "content": "<h3>Informacje zgodnie z § 5 TMG</h3><p>KalkConnect e.V.<br>Kapellenstr. 9A<br>51103 Köln</p>"
+  },
+  "privacy": {
+    "title": "Polityka Prywatności",
+    "content": "<h3>Polityka prywatności w skrócie</h3><p>Ochrona Twoich danych osobowych jest dla nas ważna.</p>"
+  },
+  "backToTop": "Do góry"
+}

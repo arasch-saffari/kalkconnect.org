@@ -1,0 +1,70 @@
+{
+  "langLabel": "English",
+  "nav": {
+    "association": "Association",
+    "donate": "Donate",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "KalkConnect e.V.",
+    "subtitle": "Promoting engagement. Empowering participation.",
+    "cta": "Learn more"
+  },
+  "association": {
+    "heading": "The Association",
+    "body": "<h3>Our Mission</h3><p>KalkConnect e.V. is a non-profit association based in Cologne. Our goal is to promote civic engagement in political education, integration and culture, focusing on empowering socially disadvantaged people.</p><h3>Our Vision</h3><p>The association serves as a platform for encounters, information exchange, counselling, mutual support and engagement promotion.</p><h3>Our Work</h3><p>Through educational work and public projects we highlight social inequality and encourage people to actively shape social processes. Core activities are cultural events, training seminars, political project groups and open spaces for exchange.</p><h3>Our Values</h3><p>The association is non-partisan and non-denominational. KalkConnect e.V. works selflessly and uses its funds exclusively for charitable purposes.</p>"
+  },
+  "donate": {
+    "heading": "Donate",
+    "body": "<h3>Why Your Support Matters</h3><p>KalkConnect e.V. wishes to remain independent of governmental, political, religious and institutional influence. Its work is financed solely by donations from supporters as well as educational and consulting services.</p><h3>How You Can Help</h3><p>Would you like to support our work and promote participation and equality in the district? We greatly appreciate your donation. Monthly standing orders help us plan reliably.</p><h3>Donation Receipts</h3><p>As a recognized non-profit organization, we are happy to provide you with a donation receipt for your tax return. Please send us your complete address by email.</p>",
+    "iban": "DE38 4306 0967 1351 6057 00",
+    "cta": "Copy IBAN",
+    "bankTransfer": "Bank Transfer"
+  },
+  "services": {
+    "heading": "Services",
+    "cards": [
+      {
+        "title": "Consulting",
+        "text": "We advise on political engagement, citizen participation and socio-political topics in the district."
+      },
+      {
+        "title": "Community Work",
+        "text": "Open social activities such as shared meals, film screenings or excursions bring people together."
+      },
+      {
+        "title": "Networking",
+        "text": "We connect people and groups in Cologne-Kalk and support initiatives."
+      },
+      {
+        "title": "Educational Offers",
+        "text": "Lectures, trainings and adult education on international, feminist and current topics."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact & Legal",
+    "address": "KalkConnect e.V. – Kapellenstr. 9A – 51103 Cologne",
+    "phone": "+49 163 2072108",
+    "email": "info@kalkconnect.org",
+    "imprint": "Imprint",
+    "privacy": "Privacy"
+  },
+  "footer": {
+    "nonprofit": "Non-profit organization",
+    "description": "KalkConnect e.V. promotes civic engagement in Cologne-Kalk through political education, integration and culture.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "connect": "Connect"
+  },
+  "imprint": {
+    "title": "Imprint",
+    "content": "<h3>Information according to § 5 TMG</h3><p>KalkConnect e.V.<br>Kapellenstr. 9A<br>51103 Cologne</p><h3>Represented by:</h3><p>Board of KalkConnect e.V.</p><h3>Contact</h3><p>Phone: +49 163 2072108<br>Email: info@kalkconnect.org</p>"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "content": "<h3>1. Privacy at a glance</h3><h4>General information</h4><p>The following information provides a simple overview of what happens to your personal data when you visit this website. Personal data is any data that can be used to identify you personally.</p>"
+  },
+  "backToTop": "Back to top"
+}
